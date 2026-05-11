@@ -1,6 +1,6 @@
 # Proyecto-intermodular-Fundamentos-de-Computaci-n-en-la-Nube
 
-## 📋 Descripción del proyecto
+##  Descripción del proyecto
 
 **NexoHR** es un sistema de gestión de Recursos Humanos orientado a pequeñas y medianas empresas.  
 Permite gestionar empleados, contratos, nóminas, ausencias y permisos desde cualquier navegador web.
@@ -9,7 +9,7 @@ Este repositorio recoge el análisis y diseño de la **arquitectura cloud** nece
 
 ---
 
-## ☁️ Proveedor Cloud elegido
+##  Proveedor Cloud elegido
 
 | | |
 |---|---|
@@ -52,9 +52,6 @@ Este repositorio recoge el análisis y diseño de la **arquitectura cloud** nece
 | **TOTAL sin Free Tier** | | **~23–25 $/mes** | |
 | **TOTAL con Free Tier** | Primer año cuenta nueva | **0,00 $/mes** | ✅ |
 
----
-
-## 📁 Contenido del repositorio
 ---
 
 ## 📚 Referencias
