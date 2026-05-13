@@ -2,7 +2,9 @@
 
 ##  Descripción del proyecto
 
-**NexoHR** es un sistema de gestión de Recursos Humanos orientado a pequeñas y medianas empresas.  
+> **Nota:** El proyecto completo, incluyendo todos los entregables y documentación técnica, se encuentra consolidado en un solo documento dentro de este repositorio.
+
+Una empresa necesita un sistema de gestión de Recursos Humanos orientado a pequeñas y medianas empresas.  
 Permite gestionar empleados, contratos, nóminas, ausencias y permisos desde cualquier navegador web.
 
 Este repositorio recoge el análisis y diseño de la **arquitectura cloud** necesaria para desplegar el sistema en la nube, como parte del módulo de Fundamentos de Computación en la Nube del proyecto intermodular de SMR 1.
